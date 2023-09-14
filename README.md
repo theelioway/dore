@@ -30,4 +30,4 @@ cd ~/Dev/theelioway/dore
 
 [MIT](license)
 
-![](./elio-Way-dore-logo.png)
+![](./apple-touch-icon.png)
