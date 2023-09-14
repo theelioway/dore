@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "alternateName": "The Woodcutter, the elioWay",
+  "description": "Implementation of an `ImageGallery`, with Gustave Doré art, the elioWay",
+  "disambiguatingDescription": "fall to worship their own work in wood, the elioWay",
+  "identifier": "dore",
+  "mainEntityOfPage": "ImageGallery",
+  "name": "dore",
+  "sameAs": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9",
+  "subjectOf": "Way",
+  "url": "https://dore.ImageGallery.theElioWay.com",
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "homepage":"https://dore.Documentation.theElioWay.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theelioway/dore"
+  },
+  "scripts": {
+    "test": "mocha",
+    "prettier": "prettier --list-different --write \"**/*.{css,html,js,json,md,mjs,scss,ts,yaml}\" \"!package.json\""
+  },
+  "type": "module"
+}
