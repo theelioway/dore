@@ -10,9 +10,15 @@
   "subjectOf": "Way",
   "url": "https://dore.ImageGallery.theElioWay.com",
   "devDependencies": {
-    "prettier": "^2.8.0"
+    "prettier": "^3.0.3"
   },
-  "homepage":"https://dore.Documentation.theElioWay.com",
+  "WebPage": {
+    "breadcrumb": [
+      "theelioway",
+      "dore"
+    ]
+  },
+  "homepage": "https://dore.Documentation.theElioWay.com",
   "license": "MIT",
   "repository": {
     "type": "git",
